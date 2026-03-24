@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 ✧ XYETHER TWIXTORS ✧ 🌌
+# 🌌 ★ jv_60fps ★ 🌌
 ### The Ultimate Performance Toolkit for Editors
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-cyan.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -14,7 +14,7 @@
 ---
 
 ## 🔮 What is this?
-**XYETHER TWIXTORS** is a stealth-injected browser extension engineered specifically for video editors, AMV creators, and Twixtor artists. 
+**JV_60FPS** is a stealth-injected browser extension engineered specifically for video editors, AMV creators, and Twixtor artists. 
 
 When you upload a video, platforms often aggressively compress your work based on hidden metadata. This extension runs a localized "Quantum Engine" that intercepts network payloads in real-time. It strips out restrictive editing metadata, spoofs platform-specific quality flags, and securely injects your customized watermark—forcing the server to treat your upload as a pristine, high-tier source file.
 
@@ -24,7 +24,7 @@ When you upload a video, platforms often aggressively compress your work based o
 
 * 🎭 **Stealth Payload Mutation:** Intercepts `fetch` and `XHR` requests under the hood using native JavaScript Proxies. Invisible to the host website.
 * 🧼 **Metadata Scrubbing:** Automatically cleans `vedit_segment_info` and draft data, preventing aggressive editor-based server compression.
-* ✨ **Automated Watermarking:** Seamlessly appends your signature (`✧ 𝗨𝗽𝗹𝗼𝗮𝗱 𝗠𝗲𝘁𝗵𝗼𝗱 ✧ 𝗧𝗚: @𝘅𝘆𝗲𝘁𝗵𝗲𝗿𝘁𝘄𝗶𝘅𝘁𝗼𝗿𝘀`) to every upload payload.
+* ✨ **Automated Watermarking:** Seamlessly appends your signature (`★ upload method ★ TG: @jv_60fps`) to every upload payload.
 * 🎛️ **Neon Glass UI:** A visually stunning, lightweight popup menu with state-saving and dynamic UI glowing effects.
 * 🔔 **In-Page HUD:** Sleek, fading toast notifications let you know when the engine is actively running on your current tab.
 
@@ -53,7 +53,7 @@ Since this is a powerful, open-source performance tool, you won't find it on the
    * Select the extracted `xyether-twixtors` folder (make sure you select the folder containing the `manifest.json` file).
 
 5. **Pin & Activate**
-   * Click the puzzle piece icon 🧩 in your browser toolbar, find **XYETHER TWIXTORS**, and pin it. 
+   * Click the puzzle piece icon 🧩 in your browser toolbar, find **JV_60FPS**, and pin it. 
    * Open the neon menu and flip the master switch to **ENABLED**!
 
 </details>
@@ -62,14 +62,14 @@ Since this is a powerful, open-source performance tool, you won't find it on the
 
 ## 📡 Socials & Community
 
-Join the XYETHER network to share settings, get updates, and connect with other editors.
+Join the JV network to share settings, get updates, and connect with other editors.
 
 | Platform | Link |
 | :---: | :--- |
-| 📺 **YouTube** | [@xyether2](https://www.youtube.com/@xyether2) |
-| 📱 **TikTok** | [@xyether_](https://www.tiktok.com/@xyether_) |
-| 💬 **Discord** | [Join the Server](https://discord.com/invite/tQP27ew3bQ) |
-| ✈️ **Telegram** | [@xyethertwixtors](https://t.me/xyethertwixtors) |
+| 📺 **YouTube** | [@JV-60FPS](https://youtube.com/@jv-60fps) |
+| 📱 **TikTok** | [@VXITCX](https://www.tiktok.com/@motako09) |
+| 💬 **Discord** | [Join the Server](https://discord.gg/NPKYExd6x) |
+| ✈️ **Telegram** | [@jv_60fps](https://t.me/jv_60fps) |
 
 ---
 
@@ -78,6 +78,6 @@ Join the XYETHER network to share settings, get updates, and connect with other 
 This project is licensed under the **GNU General Public License v3.0**. 
 
 **What does this mean?**
-You are completely free to use, modify, and distribute this software. However, if you modify and distribute it, your version **must** also be open-source, it must be licensed under GPLv3, and you must state the original creator (XYETHER). 
+You are completely free to use, modify, and distribute this software. However, if you modify and distribute it, your version **must** also be open-source, it must be licensed under GPLv3, and you must state the original creator (JV_60FPS). 
 
 *Built for the culture.* 🤍
